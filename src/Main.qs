@@ -1,0 +1,2 @@
+
+operation UtilityFunction() : Unit {}
