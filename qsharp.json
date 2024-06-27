@@ -1,3 +1,4 @@
 {
-  "author" : "Alex H <alehansen@microsoft.com"
+  "author" : "Alex H <alehansen@microsoft.com",
+  "files" : [ "src/Main.qs", "src/Diagnostics.qs" ]
 }
