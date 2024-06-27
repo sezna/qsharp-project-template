@@ -7,6 +7,7 @@ namespace Demo {
     let z = 40 + 2;
     Message("Hello from github!");
   }
+  export HelloFromGithub;
 }
 
 // Alternatively, we can simply re-export items from the standard library without adding exports.
