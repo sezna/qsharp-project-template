@@ -1,5 +1,5 @@
 {
-  "author" : "Alex H <alehansen@microsoft.com",
-  "files" : [ "src/BugBash.qs" ]
+  "author" : "Alex H <alehansen@microsoft.com>",
+  "files" : [ "src/BugBash.qs" ],
   "packageType": "lib"
 }
