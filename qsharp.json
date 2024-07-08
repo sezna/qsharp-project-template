@@ -1,4 +1,5 @@
 {
   "author" : "Alex H <alehansen@microsoft.com",
-  "files" : [ "src/Main.qs", "src/Diagnostics.qs" ]
+  "files" : [ "src/BugBash.qs" ]
+  "packageType": "lib"
 }
